@@ -1,0 +1,1 @@
+example chrome extension that logs user's history
